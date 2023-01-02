@@ -43,7 +43,8 @@ const mensagensDeErro = {
     },
     cep: {
         valueMissing: 'O campo de CEP não pode estar vazio.',
-        patternMismatch: 'O CEP digitado não é válido.'
+        patternMismatch: 'O CEP digitado não é válido.',
+        customError: 'Não foi possível buscar o CEP.'
     },
     logradouro: {
         valueMissing: 'O campo de logradouro não pode estar vazio.'
